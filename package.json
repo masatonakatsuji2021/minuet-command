@@ -1,0 +1,29 @@
+{
+  "name": "minuet-command",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ms": "node cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masatonakatsuji2021/minuet-command.git"
+  },
+  "keywords": [
+    "server",
+    "logger",
+    "webserver",
+    "node"
+  ],
+  "author": "Masato Nakatsuji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masatonakatsuji2021/minuet-command/issues"
+  },
+  "homepage": "https://github.com/masatonakatsuji2021/minuet-command#readme",
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "minuet-server": "git+https://github.com/masatonakatsuji2021/minuet-server.git"
+  }
+}

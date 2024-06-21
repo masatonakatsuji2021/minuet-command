@@ -1,0 +1,15 @@
+#--------------------------------------------------------------------------
+# minuet initilize
+
+# process title
+processTitle: {processTitle}
+
+# Load Balancer
+loadBalancer:
+  type: {loadBalancer-type}
+  maps: 
+{loadBalancer-maps}
+
+# Sector Paths
+sectorPaths:  
+{sectorParts}
